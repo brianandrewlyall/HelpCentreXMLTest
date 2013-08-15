@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic>
+       <topicMETA topicType="HELPTOPIC">
+              <topicName>Set up your organisation's financial details</topicName>
+              <topicDescription>>When you set up your organisation in Xero, enter your organisation's financial details including its year end</topicDescription>
+              <topicKeywords>
+                     <keyword>import</keyword>
+                     <keyword>export</keyword>
+                     <keyword>file format</keyword>
+                 </topicKeywords>
+          </topicMETA>
+       <topicTags>
+              <productTag>
+                     <tag>Xero Business</tag>
+                 </productTag>
+              <audienceTag>
+                     <tag>Business</tag>
+                     <tag>Adviser</tag>
+                 </audienceTag>
+          </topicTags>
+       <topicContent Language="INT">
+              <topicTitle>Set up your organisation's financial details</topicTitle>
+              <content contentType="BAU">
+                     <standard>
+                            <p>Your Financial Settings includes information used in the production of your reports and invoices and bills. If you didn't complete this during the setup process or want to make changes to it, you can do this at any time.</p>
+                            <p>The financial information you're asked to provide is used in the production of financial reports and print versions of invoices, bills and credit notes so for these to generate accurately you will need to enter the information asked for on this screen. If you are unsure about the financial information asked for, you might like to wait until you have consulted your financial adviser.</p>
+                            <ul>
+                                   <li>
+                                          <a href="#BK_Currency">Currency</a>
+                                      </li>
+                                   <li>
+                                          <a href="#BK_Financial">Choose your financial year end</a>
+                                      </li>
+                                   <li>
+                                          <a href="#BK_TaxSettings">
+                                                 <span class="INT US">Sales Tax</span>
+                                             </a>
+                                      </li>
+                                   <li>
+                                          <a href="#BK_BACS">Use Bankers' Automated Clearing Services for batch payments</a>
+                                      </li>
+                                   <li>
+                                          <a href="#BK_OrgLockDate">Use lock dates to close off your accounts for a period or year end</a>
+                                      </li>
+                                   <li>
+                                          <a href="#BK_ActivitySt">Activity Statement Settings</a>
+                                      </li>
+                                   <li>
+                                          <a href="#BK_Zone">Time zone settings in Xero</a>
+                                      </li>
+                               </ul>
+                        </standard>
+                     <tip>
+                            <p>To get to the Financial Settings screen, go to >>.
+                                   <strong>Settings</strong>
+                                   <strong>General Settings</strong>
+                                   <strong>Financial Settings</strong>
+                                   <span class="tip">Your user role will determine if you can access financial settings.</span>
+                                   <br></br>
+                                   <a href="Settings_UsersRoles.htm#BK_Settings">Settings role comparison</a>
+                               </p>
+                        </tip>
+                 </content>
+              <content contentType="GETTING STARTED">
+                     <standard>
+                            <p>When you set up your organisation in Xero, enter your organisation's financial details including its year end and settings.
+                                   <span class="US INT">sales tax or tax return</span>
+                               </p>
+                        </standard>
+                     <tip></tip>
+                 </content>
+          </topicContent>
+
+       <topicContent Language="UK">
+              <topicTitle>Set up your organisation's financial details</topicTitle>
+              <content contentType="BAU">
+                     <standard>
+                            <p>Your Financial Settings includes information used in the production of your reports and invoices and bills. If you didn't complete this during the setup process or want to make changes to it, you can do this at any time.</p>
+                            <p>The financial information you're asked to provide is used in the production of financial reports and print versions of invoices, bills and credit notes so for these to generate accurately you will need to enter the information asked for on this screen. If you are unsure about the financial information asked for, you might like to wait until you have consulted your financial adviser.</p>
+                            <ul>
+                                   <li>
+                                          <a href="#BK_Currency">Currency</a>
+                                      </li>
+                                   <li>
+                                          <a href="#BK_Financial">Choose your financial year end</a>
+                                      </li>
+                                   <li>
+                                          <a href="#BK_TaxSettings">
+                                                 <span class="UK">VAT</span>
+                                             </a>
+                                      </li>
+                                   <li>
+                                          <a href="#BK_BACS">Use Bankers' Automated Clearing Services for batch payments</a>
+                                      </li>
+                                   <li>
+                                          <a href="#BK_OrgLockDate">Use lock dates to close off your accounts for a period or year end</a>
+                                      </li>
+                                   <li>
+                                          <a href="#BK_ActivitySt">Activity Statement Settings</a>
+                                      </li>
+                                   <li>
+                                          <a href="#BK_Zone">Time zone settings in Xero</a>
+                                      </li>
+                               </ul>
+                        </standard>
+                     <tip>
+                            <p>To get to the Financial Settings screen, go to >>.
+                                   <strong>Settings</strong>
+                                   <strong>General Settings</strong>
+                                   <strong>Financial Settings</strong>
+                                   <span class="tip">Your user role will determine if you can access financial settings.</span>
+                                   <br></br>
+                                   <a href="Settings_UsersRoles.htm#BK_Settings">Settings role comparison</a>
+                               </p>
+                        </tip>
+                 </content>
+              <content contentType="GETTING STARTED">
+                     <standard>
+                            <p>When you set up your organisation in Xero, enter your organisation's financial details including its year end and settings.
+                                   <span class="UK">VAT</span>
+                               </p>
+                        </standard>
+                     <tip></tip>
+                 </content>
+          </topicContent>
+   </topic>
