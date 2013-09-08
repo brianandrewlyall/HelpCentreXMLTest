@@ -21,7 +21,9 @@
       <image href="../images/video-254faf.gif" alt="Video for Xero batch payments"/>
       <p>This is an image, which represents a image within Vimeo</p></section>
     
-    
+    <section id="Brian-test-of-GitHub">
+      <p>This is a test of GitHub, in a new branch</p>
+    </section>
     <section id="Batch-payments-overview-contents">
       <p><xref href="Accounts_AP_AddCredit.dita#Try-to-set-up-your-organisations-financial-details/Your-Financial-Settings">Create or edit a batch payment</xref></p>
       <p outputclass="red_highlight">Export a batch payment file and import into a bank account</p>
