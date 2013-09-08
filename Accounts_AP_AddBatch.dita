@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="Batch-payments-overview">
+
+  <title>Batch payments: overview</title>
+  <shortdesc>An overview of how to create and maintain Batch Payments</shortdesc>
+  
+  <prolog><data-about>
+    <data props="EN-NZ">Batch payments: overview NZ Title</data>
+    <data props="EN-AU">Batch payments: overview AU Title</data>
+    <data props="EN-UK">Batch payments: overview UK Title</data>
+    <data props="EN-US">Batch payments: overview US Title</data>
+  </data-about></prolog>
+  
+  <body>
+    <data name="Original-Source" value="#Accounts_AP_AddBatch"/> 
+    <section id="Batch-payments-overview-introduction">
+      <p>Use batch payments to bundle one or more bills together into one transaction for payment.
+        Then you can export the file and upload it into your online banking or other payment
+        service. Your bank processes the file and pays the bills in the batch.</p>
+      <image href="../images/video-254faf.gif" alt="Video for Xero batch payments"/>
+      <p>This is an image, which represents a image within Vimeo</p></section>
+    
+    
+    <section id="Batch-payments-overview-contents">
+      <p><xref href="Accounts_AP_AddCredit.dita#Try-to-set-up-your-organisations-financial-details/Your-Financial-Settings">Create or edit a batch payment</xref></p>
+      <p outputclass="red_highlight">Export a batch payment file and import into a bank account</p>
+      <p>Email a remittance advice after a batch payment</p>
+      <p>Reconcile a batch payment for this <data name="Date" value="12/3/2014">12/3/2014</data> </p>
+      <p>Delete a part or full batch payment</p>
+      <p>Find and view your batch payment</p>
+      <p>Troubleshooting for batch payments</p>
+    </section>
+
+    <section id="top-of-page">
+      <p><?oxy_comment_start author="brian.lyall" timestamp="20130909T092630+1200" comment="What the heck is up here?"?>Use
+        batch payments to bundle one or more bills together into one transaction for payment. Then
+        you can export the file and upload it into your online banking or other payment service.
+        Your bank processes the file and pays the bills in the batch.<?oxy_comment_end?></p>
+      <p><xref format="html" href="http://vimeo.com/67858264/"/></p><!-- Show that embedded linking to an external rich media resource -->
+      <p>This is a test of $ € £ ¥</p><!-- Show support of multiple currency symbols -->
+      <p>洋泾浜奇侠</p><!-- Show support of simplified Chinese content -->
+      <keyword id="myProduct">Xero Business</keyword><!-- Use of keywords as possible facet -->
+      <note>I am a note, which may be used for a TIP replacement in Help Centre</note>
+      <p><xref href="#Batch-payments-overview/Batch-payments-overview-introduction">Go to
+        top</xref></p><!-- Link to an internal reference within content -->
+      <p><ph conkeyref="textfragment/replacementText-Intro">Xero</ph></p><!-- Use of Help Centre variables - defined in topic MAP and sourced from Resource-sections-->
+      <table>
+        <tgroup cols="1">
+          <tbody>
+            <row>
+              <entry>I am a table element which is <b>Strong</b> and <i>Italic</i>
+              </entry>
+              <!-- Use of table, italic and bold -->
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <hazardstatement>
+        <!-- Use of Hazard Statement in place of Tip -->
+        <messagepanel>
+          <typeofhazard>Don't do this!</typeofhazard>
+          <howtoavoid>This is a Hazard Statement</howtoavoid>
+        </messagepanel>
+      </hazardstatement>
+    </section>
+    <section props="EN-NZ"><!-- Regional and language specific content -->
+      <ul id="ul_fph_brk_gl">
+        <li>I am an item</li>
+      </ul>
+      <p><image alt="New Zealand Flag" href="../images/NZ.jpg" id="image_dqh_brk_gl"><alt>I am an image</alt></image></p><!-- Support of images -->
+      <p><image href="../images/Xero%20business%20images/ap%20-%20invoices%20to%20batch%20payment-fa7411.png"/></p><!-- Support of images in a heirarchy AND spaces-->
+      <note>To get to the Financial Settings screen, go to <menucascade><!-- Test menu cascade-->
+          <uicontrol>Settings</uicontrol>
+          <uicontrol>General Settings</uicontrol>
+          <uicontrol>Financial Settings</uicontrol>
+        </menucascade> Your user role will determine if you can access financial settings. This actually used menu cascade!</note>
+      <p><xref format="dita" href="Accounts_AP_AddCredit.dita"/></p><!-- Test of reference to another DITA file -->
+      <p><xref format="dita" href="subfolder/Accounts_AP_AddCredit-in-anoher-folder.dita"/></p><!-- Test of reference to another DITA file in hierarchy-->
+    </section>
+  </body>
+  <related-links>
+    <linkpool type="concept" props="EN-US"><!-- Support of a section with another locale/language/region -->
+      <link format="html" href="http://www.xero.com">
+        <linktext>Xero.com</linktext>
+        <desc>When you want something for your numbers ...</desc>
+      </link>
+    </linkpool>
+    <link href="http://vimeo.com/72948365/" format="html" scope="external">
+      <linktext>Xero Tips and Tricks for Partners</linktext>
+    </link>
+    <link href="http://vimeo.com/tag:Xero" format="html" scope="external">
+      <linktext>Vimeo Videos tagged as Xero</linktext>
+    </link>
+  </related-links>
+</topic>
